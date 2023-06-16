@@ -1,4 +1,4 @@
-module appleTransaction
+module AppleTransaction
 
 go 1.20
 

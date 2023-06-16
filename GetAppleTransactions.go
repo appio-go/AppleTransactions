@@ -1,4 +1,4 @@
-package appleTransaction
+package AppleTransaction
 
 import (
 	"bytes"
