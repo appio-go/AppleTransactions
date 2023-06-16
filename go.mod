@@ -1,4 +1,4 @@
-module github.com/appio-go/AppleTransactions/v1
+module github.com/appio-go/AppleTransactions
 
 go 1.20
 
