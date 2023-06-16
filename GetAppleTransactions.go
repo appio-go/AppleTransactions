@@ -1,4 +1,4 @@
-package appleReceipts
+package appleTransaction
 
 import (
 	"bytes"

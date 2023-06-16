@@ -1,4 +1,4 @@
-module AppleReceipts
+module appleTransaction
 
 go 1.20
 
